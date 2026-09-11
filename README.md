@@ -2,6 +2,8 @@
 
 Aplicativo desktop em Python para gerenciamento de produtos, geração de mensagens, envio via WhatsApp Web e automação de divulgação com suporte a templates, imagens e agendamento.
 
+![Interface](imagens/interface1.png)
+
 ## Visão geral
 
 Este projeto inclui:
