@@ -1,0 +1,1 @@
+# automacao-envio-links-afiliados
