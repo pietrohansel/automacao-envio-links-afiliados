@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Automação Afiliados
+Name[pt_BR]=Automação Afiliados
+Comment=Automação de envio de produtos e mensagens via WhatsApp Web
+Exec=/opt/automacao_afiliados/automacao_afiliados
+Icon=automacao_afiliados
+Terminal=false
+Categories=Utility;
+StartupNotify=true
